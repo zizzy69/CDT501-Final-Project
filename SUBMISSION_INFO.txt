@@ -1,0 +1,5 @@
+Student name: ZOU Zheng
+Student ID: 3229475
+Section: 3
+Group: Group3
+GitHub repository: https://github.com/zizzy69/CDT501-Final-Project.git

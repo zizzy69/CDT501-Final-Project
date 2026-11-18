@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Generate test PDFs",
+      "type": "process",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": ["test/generate_test_pdfs.py", "--output-dir", "test/data"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Evaluate prototype",
+      "type": "process",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": ["test/evaluate.py", "--data-dir", "test/data", "--output-dir", "test/results"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "dependsOn": "Generate test PDFs",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run prototype on input.pdf",
+      "type": "process",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": ["main.py", "input.pdf", "output"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    }
+  ]
+}

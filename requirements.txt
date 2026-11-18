@@ -1,0 +1,6 @@
+# 文件名：requirements.txt
+# Python 3.9+
+tabula-py==2.9.3
+pandas==2.2.3
+reportlab==4.2.5
+

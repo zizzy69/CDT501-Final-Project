@@ -1,0 +1,20 @@
+{
+  "category": "category3_unfamiliar_layout",
+  "description": "陌生布局",
+  "pdf": "sample_05.pdf",
+  "truth_csv": "sample_05_truth.csv",
+  "expected_pages": 3,
+  "expected_groups": [
+    1,
+    2
+  ],
+  "measurement_units": [
+    "kPa",
+    "kg"
+  ],
+  "layout_features": [
+    "column_count_change",
+    "multi_row_header",
+    "unit_row_position_change"
+  ]
+}

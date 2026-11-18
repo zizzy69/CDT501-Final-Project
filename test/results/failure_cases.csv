@@ -1,0 +1,41 @@
+﻿category,mode,pdf,error_type,page,detail
+category3_unfamiliar_layout,baseline,sample_01.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table.csv
+category3_unfamiliar_layout,baseline,sample_01.pdf,false_join,3,记录 t-01-B-01 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_01.pdf,unit_error,3,记录 t-01-B-01 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_01.pdf,false_join,3,记录 t-01-B-02 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_01.pdf,unit_error,3,记录 t-01-B-02 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_01.pdf,false_join,3,记录 t-01-B-03 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_01.pdf,unit_error,3,记录 t-01-B-03 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,improved,sample_01.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table_group_2.csv
+category3_unfamiliar_layout,baseline,sample_02.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table.csv
+category3_unfamiliar_layout,baseline,sample_02.pdf,false_join,3,记录 t-02-B-01 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_02.pdf,unit_error,3,记录 t-02-B-01 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_02.pdf,false_join,3,记录 t-02-B-02 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_02.pdf,unit_error,3,记录 t-02-B-02 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_02.pdf,false_join,3,记录 t-02-B-03 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_02.pdf,unit_error,3,记录 t-02-B-03 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,improved,sample_02.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table_group_2.csv
+category3_unfamiliar_layout,baseline,sample_03.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table.csv
+category3_unfamiliar_layout,baseline,sample_03.pdf,false_join,3,记录 t-03-B-01 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_03.pdf,unit_error,3,记录 t-03-B-01 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_03.pdf,false_join,3,记录 t-03-B-02 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_03.pdf,unit_error,3,记录 t-03-B-02 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_03.pdf,false_join,3,记录 t-03-B-03 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_03.pdf,unit_error,3,记录 t-03-B-03 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,improved,sample_03.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table_group_2.csv
+category3_unfamiliar_layout,baseline,sample_04.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table.csv
+category3_unfamiliar_layout,baseline,sample_04.pdf,false_join,3,记录 t-04-B-01 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_04.pdf,unit_error,3,记录 t-04-B-01 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_04.pdf,false_join,3,记录 t-04-B-02 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_04.pdf,unit_error,3,记录 t-04-B-02 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_04.pdf,false_join,3,记录 t-04-B-03 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_04.pdf,unit_error,3,记录 t-04-B-03 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,improved,sample_04.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table_group_2.csv
+category3_unfamiliar_layout,baseline,sample_05.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table.csv
+category3_unfamiliar_layout,baseline,sample_05.pdf,false_join,3,记录 t-05-B-01 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_05.pdf,unit_error,3,记录 t-05-B-01 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_05.pdf,false_join,3,记录 t-05-B-02 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_05.pdf,unit_error,3,记录 t-05-B-02 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,baseline,sample_05.pdf,false_join,3,记录 t-05-B-03 应在组 2，实际在组 1
+category3_unfamiliar_layout,baseline,sample_05.pdf,unit_error,3,记录 t-05-B-03 的列 Value (kg) 单位为 kg，真值为 kpa
+category3_unfamiliar_layout,improved,sample_05.pdf,false_join,3,输出记录 Code 不在真值中；文件 reconstructed_table_group_2.csv

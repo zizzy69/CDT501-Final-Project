@@ -1,0 +1,14 @@
+{
+  "category": "category1_standard",
+  "description": "标准布局",
+  "pdf": "sample_05.pdf",
+  "truth_csv": "sample_05_truth.csv",
+  "expected_pages": 3,
+  "expected_groups": [
+    1
+  ],
+  "measurement_units": [
+    "kg"
+  ],
+  "layout_features": []
+}

@@ -1,0 +1,11 @@
+﻿Record ID,Name,Value (kg),Status,__source_page,__source_row,__table_group
+t-02-01-01,Item-1-1,21.1,OK,1,2,1
+t-02-01-02,Item-1-2,21.2,OK,1,3,1
+t-02-01-03,Item-1-3,21.3,CHECK,1,4,1
+t-02-02-01,Item-2-1,22.1,OK,2,2,1
+t-02-02-02,Item-2-2,22.2,OK,2,3,1
+t-02-02-03,Item-2-3,22.3,CHECK,2,4,1
+Code,Area,Measured pressure,kPa,3,2,1
+t-02-B-01,Region-2,23.1,kPa,3,3,1
+t-02-B-02,Region-2,23.2,kPa,3,4,1
+t-02-B-03,Region-2,23.3,kPa,3,5,1

@@ -1,0 +1,14 @@
+{
+  "category": "category2_header_variation",
+  "description": "表头格式不一致",
+  "pdf": "sample_03.pdf",
+  "truth_csv": "sample_03_truth.csv",
+  "expected_pages": 3,
+  "expected_groups": [
+    1
+  ],
+  "measurement_units": [
+    "kg"
+  ],
+  "layout_features": []
+}

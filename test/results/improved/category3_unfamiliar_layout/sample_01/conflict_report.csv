@@ -1,0 +1,2 @@
+﻿page_number,table_index,conflict_type,message,expected_header,actual_header,similarity
+3,1,column_count_mismatch,该页未与首页表头兼容，已单独建组，未强行拼接。,Record ID | Name | Value (kg) | Status,ID | Region | Pressure (kPa) | Unit | Status,0.0

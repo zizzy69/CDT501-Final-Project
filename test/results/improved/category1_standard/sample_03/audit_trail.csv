@@ -1,0 +1,37 @@
+﻿table_group,output_row,column_index,column_name,cell_value,source_page,source_table_index,source_row,left,top,width,height,coordinate_system
+1,1,1,Record ID,d-03-01-01,1,1,2,104.88053,202.07912,96.37931060791016,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,1,2,Name,Item-1-1,1,1,2,201.25984,202.07912,107.71653747558594,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,1,3,Value (kg),31.1,1,1,2,308.97638,202.07912,96.37796020507812,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,1,4,Status,OK,1,1,2,405.35434,202.07912,85.03933715820312,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,2,1,Record ID,d-03-01-02,1,1,3,104.88053,228.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,2,2,Name,Item-1-2,1,1,3,201.25984,228.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,2,3,Value (kg),31.2,1,1,3,308.97638,228.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,2,4,Status,OK,1,1,3,405.35434,228.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output
+1,3,1,Record ID,d-03-01-03,1,1,4,104.88053,254.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,3,2,Name,Item-1-3,1,1,4,201.25984,254.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,3,3,Value (kg),31.3,1,1,4,308.97638,254.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,3,4,Status,CHECK,1,1,4,405.35434,254.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output
+1,4,1,Record ID,d-03-02-01,2,1,2,104.88053,202.07912,96.37931060791016,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,4,2,Name,Item-2-1,2,1,2,201.25984,202.07912,107.71653747558594,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,4,3,Value (kg),32.1,2,1,2,308.97638,202.07912,96.37796020507812,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,4,4,Status,OK,2,1,2,405.35434,202.07912,85.03933715820312,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,5,1,Record ID,d-03-02-02,2,1,3,104.88053,228.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,5,2,Name,Item-2-2,2,1,3,201.25984,228.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,5,3,Value (kg),32.2,2,1,3,308.97638,228.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,5,4,Status,OK,2,1,3,405.35434,228.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output
+1,6,1,Record ID,d-03-02-03,2,1,4,104.88053,254.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,6,2,Name,Item-2-3,2,1,4,201.25984,254.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,6,3,Value (kg),32.3,2,1,4,308.97638,254.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,6,4,Status,CHECK,2,1,4,405.35434,254.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output
+1,7,1,Record ID,d-03-03-01,3,1,2,104.88053,202.07912,96.37931060791016,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,7,2,Name,Item-3-1,3,1,2,201.25984,202.07912,107.71653747558594,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,7,3,Value (kg),33.1,3,1,2,308.97638,202.07912,96.37796020507812,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,7,4,Status,OK,3,1,2,405.35434,202.07912,85.03933715820312,26.000045776367188,PDF points; origin is top-left in tabula JSON output
+1,8,1,Record ID,d-03-03-02,3,1,3,104.88053,228.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,8,2,Name,Item-3-2,3,1,3,201.25984,228.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,8,3,Value (kg),33.2,3,1,3,308.97638,228.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,8,4,Status,OK,3,1,3,405.35434,228.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output
+1,9,1,Record ID,d-03-03-03,3,1,4,104.88053,254.07916,96.37931060791016,26.0,PDF points; origin is top-left in tabula JSON output
+1,9,2,Name,Item-3-3,3,1,4,201.25984,254.07916,107.71653747558594,26.0,PDF points; origin is top-left in tabula JSON output
+1,9,3,Value (kg),33.3,3,1,4,308.97638,254.07916,96.37796020507812,26.0,PDF points; origin is top-left in tabula JSON output
+1,9,4,Status,CHECK,3,1,4,405.35434,254.07916,85.03933715820312,26.0,PDF points; origin is top-left in tabula JSON output

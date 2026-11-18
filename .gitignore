@@ -1,0 +1,15 @@
+.venv/
+.runtime/
+__pycache__/
+**/__pycache__/
+*.pyc
+.report_tmp*/
+package_stage/
+demo_output/
+demo_baseline/
+*.zip
+CDT501_Final (Individual) Report_Format Template.docx
+CDT501_GroupReport_Format Template.docx
+CDT501_Project_Topic_Bank(1).pdf
+CDT501_Report_Writing_Guide.docx
+课程作业要求和报告模板/

@@ -1,0 +1,7 @@
+﻿category,mode,sample_count,avg_false_joins,avg_unit_errors,avg_traceability_rate
+category1_standard,baseline,5,0.0,0.0,1.0
+category1_standard,improved,5,0.0,0.0,1.0
+category2_header_variation,baseline,5,0.0,0.0,1.0
+category2_header_variation,improved,5,0.0,0.0,1.0
+category3_unfamiliar_layout,baseline,5,4.0,3.0,1.0
+category3_unfamiliar_layout,improved,5,1.0,0.0,1.0

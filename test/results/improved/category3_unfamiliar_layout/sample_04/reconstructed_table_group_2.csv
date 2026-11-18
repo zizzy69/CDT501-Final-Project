@@ -1,0 +1,5 @@
+﻿ID,Region,Pressure (kPa),Unit,Status,__source_page,__source_row,__table_group
+Code,Area,Measured pressure,kPa,State,3,2,2
+t-04-B-01,Region-4,43.1,kPa,OK,3,3,2
+t-04-B-02,Region-4,43.2,kPa,OK,3,4,2
+t-04-B-03,Region-4,43.3,kPa,CHECK,3,5,2
