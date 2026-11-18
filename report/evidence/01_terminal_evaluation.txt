@@ -1,0 +1,10 @@
+PS C:\Users\Dorian\Desktop\CDT501\C1_project>
+$env:JAVA_HOME = .runtime\temurin17-jre
+.\.venv\Scripts\python.exe -u test\evaluate.py --data-dir test\data --output-dir test\results --root . --python .\.venv\Scripts\python.exe
+
+Evaluation completed: 30 mode-sample combinations
+Summary: test\results\summary_results.csv
+Failure cases: test\results\failure_cases.csv (40 records)
+
+Java runtime: Temurin 17
+Evaluation status: completed successfully
