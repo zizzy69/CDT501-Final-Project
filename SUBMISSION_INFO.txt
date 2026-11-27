@@ -3,6 +3,6 @@ Student ID: 3229475
 Section: 3
 Group: Group3
 GitHub repository: https://github.com/zizzy69/CDT501-Final-Project.git
-Latest commit: 4b04ce9
+Latest commit: 7cc8e26
 Local submission zip: CDT501_C1_Group3_ZOU_Zheng_3229475.zip
 Individual report evidence: report/evidence/
