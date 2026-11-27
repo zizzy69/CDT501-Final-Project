@@ -20,6 +20,15 @@
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal",
       "justMyCode": true
+    },
+    {
+      "name": "Open local demo UI",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/ui.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
     }
   ]
 }

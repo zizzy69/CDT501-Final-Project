@@ -42,6 +42,18 @@ python main.py input.pdf ./output
 python main.py input.pdf ./output_baseline --baseline
 ```
 
+## 本地 UI 演示
+
+项目提供了一个基于 Python 标准库 Tkinter 的本地界面，不需要新增依赖：
+
+```bash
+python ui.py
+```
+
+界面可以选择 PDF 和输出目录，并分别运行改进模式或基线模式。运行完成后，右侧会列出 `reconstructed_table.csv`、`audit_trail.csv`、`conflict_report.csv` 和其他表格组 CSV；双击文件即可打开。界面会优先使用项目内的 `.runtime/temurin17-jre`，因此课堂演示时无需单独配置全局 Java。
+
+课堂演示建议选择 `test/data/category3_unfamiliar_layout/sample_01.pdf`，这样可以同时展示改进模式的冲突检测和审计日志。
+
 输出文件：
 
 - `reconstructed_table.csv`：首页表头兼容的主表，数据行附带 `__source_page`、`__source_row` 和 `__table_group`。
