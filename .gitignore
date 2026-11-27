@@ -7,6 +7,8 @@ __pycache__/
 package_stage/
 demo_output/
 demo_baseline/
+demo_ui_output/
+demo_ui_baseline/
 *.zip
 CDT501_Final (Individual) Report_Format Template.docx
 CDT501_GroupReport_Format Template.docx
